@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "scripts": {
+        "serve": "node server.js"
+    },
+    "devDependencies": {
+        "cors-anywhere": "^0.4.3"
+    }
+}
